@@ -13,8 +13,12 @@ If not for one of these three reasons, you probably wouldn't want to use Mold Ar
 ## What's installed on here?
 PC Diagnostic and Repair Tools - e.g. ddrescue, 
 
-Development Tools - e.g. atom, 
+Development Tools - e.g. atom, nodejs
 
-Design Tools - e.g. krita, blender, gimp, inkscape, 
+Design/Art Tools - e.g. krita, blender, gimp, inkscape, 
 
-Pen Testing Tools - wireless tools such as airmon-ng, 
+Pen Testing Tools - wireless tools such as airmon-ng, nmap, 
+
+Stuff used on a daily basis - firefox, mpv, 
+
+
