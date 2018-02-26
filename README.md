@@ -11,14 +11,14 @@ There's only three reasons why you would want to use and install Mold Arch.
 If not for one of these three reasons, you probably wouldn't want to use Mold Arch. 
 
 ## What's installed on here?
-PC Diagnostic and Repair Tools - e.g. ddrescue, 
+PC Diagnostic and Repair Tools - e.g. ddrescue, testdisk, photorec, smartmontools,
 
-Development Tools - e.g. atom, nodejs
+Development Tools - e.g. atom, nodejs, arduino, processing 
 
 Design/Art Tools - e.g. krita, blender, gimp, inkscape, 
 
-Pen Testing Tools - wireless tools such as airmon-ng, nmap, 
+Pen Testing Tools - (mainly)wireless tools such as airmon-ng, nmap, 
 
-Stuff used on a daily basis - firefox, mpv, 
+Stuff used on a daily basis - firefox, mpv, calibre, keepass
 
 
