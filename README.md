@@ -5,7 +5,7 @@ Personal linux distro - Arch with XFCE4
 There's only three reasons why you would want to use and install Mold Arch.
 
 1. you're me
-2. you're my fiance
+2. you're my fiance (may he rest in peace) 
 3. you're curious about what my workspace looks like
 
 If not for one of these three reasons, you probably wouldn't want to use Mold Arch. 
